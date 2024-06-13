@@ -1,2 +1,2 @@
-# HUeAngular
-Tasks in the Angular Internship
+# AngularTask1
+
